@@ -1,2 +1,2 @@
 # Aprendendo Versionamento
- Curso com Guanabara - criando repositório de Curso e Github
+Aprimorando os conhecimentos em versionamento através de cursos.
